@@ -23,3 +23,21 @@ Course Prerequisite(s): none
 Text(s):                                    
 "Adobe Photoshop Classroom in a Book"
 "Adobe Illustrator Classroom in a Book"
+
+#### Final Project
+Create a website using Photoshop and/or Illustrator.
+
+Create an Adobe Illustrator OR Photoshop File that contains the following pages representing your personal website:
+
+Home
+About
+Portfolio
+Contact
+Each artboard shall contain the site logo, navigation, images, and text you wish to show on your document.
+The About page must contain at least 500 words about yourself.
+
+Export your artwork for the Web including all slices needed to link to other pages or external content.
+Upload your work to you website.
+
+Sample Final Project:
+
