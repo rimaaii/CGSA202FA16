@@ -41,4 +41,4 @@ Export your artwork for the Web including all slices needed to link to other pag
 Upload your work to you website.
 
 Sample Final Project:
-
+https://rimaaii.github.io/CGSA202FA16/final/
